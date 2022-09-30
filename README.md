@@ -1,2 +1,4 @@
-# sci-faq
-FAQ submissions to support the SCI
+# Frequently Asked Questions
+
+
+## FAQ submissions to support the SCI
