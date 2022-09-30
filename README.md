@@ -7,10 +7,7 @@
 {Add details}
 
 ## Getting Started
-- The development version of the specification is [here](https://github.com/Green-Software-Foundation/software_carbon_intensity/blob/dev/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md).
-- The latest published version of the specification is [here](https://github.com/Green-Software-Foundation/software_carbon_intensity/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md).
-- The `dev` branch contains the current version that is being worked on and the `main` branch contains the latest published version.
-- Check the [issues tab](https://github.com/Green-Software-Foundation/software_carbon_intensity/issues) for active and closed conversations regarding the spec.
+{Add details}
 
 ## Contributing
 {Add details}
