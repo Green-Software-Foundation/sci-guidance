@@ -1,4 +1,4 @@
-# SCI Guidelines
+# SCI Guidance
 
 ## Introduction
 {Add details}
