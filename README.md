@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+# SCI Guidelines
 
 ## Introduction
 {Add details}
