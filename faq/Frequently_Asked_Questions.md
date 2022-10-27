@@ -1,4 +1,4 @@
-# Software Carbon Intensity (SCI) - Frequently Asked Questions
+# Software Carbon Intensity (SCI) - Guidance
 
 ## Introduction
 
