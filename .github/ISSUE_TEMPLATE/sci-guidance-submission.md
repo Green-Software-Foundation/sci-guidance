@@ -1,5 +1,5 @@
 ---
-name: FAQ submission
+name: SCI Guidance submission
 about: Describe this issue template's purpose here.
 title: "[FAQ]"
 labels: ''
@@ -7,7 +7,7 @@ assignees: atg-abhishek, Henry-WattTime
 
 ---
 
-## FAQ
+## SCI Guidance
 
   - **SCI Section**
         {Section to be updated}
